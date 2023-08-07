@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Train = () => {
+export const Train = () => {
   return (
     <div>
       train
@@ -8,4 +8,3 @@ const Train = () => {
   )
 }
 
-export default Train
